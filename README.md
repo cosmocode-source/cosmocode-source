@@ -1,6 +1,6 @@
 # Hey, I'm Arin Singh 👋
 
-I'm a Computer Science student who builds across the full stack — from web apps and ML pipelines to network tools and cloud security systems. I like understanding how things work at a low level, then building something useful on top of it.
+I'm a Computer Science student who builds across the full stack - from web apps and ML pipelines to network tools and cloud security systems. I like understanding how things work at a low level, then building something useful on top of it.
 
 ---
 
