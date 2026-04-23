@@ -6,11 +6,11 @@ I'm a Computer Science student who builds across the full stack — from web app
 
 ## 🧠 What I work with
 
-**Languages** — Python · JavaScript · C · C++ · Java · Shell  
-**Web** — React · Node.js · Express · MongoDB (MERN)  
-**ML / CV** — MediaPipe · OpenCV · FastAPI  
-**Security & Networking** — Flask · Mininet · Ryu (SDN) · Cloud config auditing  
-**Tools** — Git · Linux · REST APIs
+**Languages** - Python · JavaScript · C · C++ · Java · Shell  
+**Web** - React · Node.js · Express · MongoDB (MERN)  
+**ML / CV** - MediaPipe · OpenCV · FastAPI  
+**Security & Networking** - Flask · Mininet · Ryu (SDN) · Cloud config auditing  
+**Tools** - Git · Linux · REST APIs
 
 ---
 
@@ -18,9 +18,9 @@ I'm a Computer Science student who builds across the full stack — from web app
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Network Download Analyzer](https://github.com/cosmocode-source/Network_Download_Analyzer) | Measures real-world internet download performance — speed, latency, and packet loss — across multiple servers over time | Python |
+| [Network Download Analyzer](https://github.com/cosmocode-source/Network_Download_Analyzer) | Measures real-world internet download performance - speed, latency, and packet loss- across multiple servers over time | Python |
 | [Multi-Cloud Security Management](https://github.com/cosmocode-source/Multi-Cloud-Security-Management) | Detects and auto-remediates misconfigurations across cloud environments | Flask · Shell |
-| [Hand Gesture Media & Mouse Control](https://github.com/cosmocode-source/Hand-Gesture-Based-Media-Mouse-Control) | Controls your computer with hand gestures via webcam — switches between media and mouse modes in real time | Python · MediaPipe · FastAPI |
+| [Hand Gesture Media & Mouse Control](https://github.com/cosmocode-source/Hand-Gesture-Based-Media-Mouse-Control) | Controls your computer with hand gestures via webcam - switches between media and mouse modes in real time | Python · MediaPipe · FastAPI |
 | [Taskman](https://github.com/cosmocode-source/Taskman-Site) | A full-stack task management web app built as a second-year project | MERN |
 | [QoS Priority Controller](https://github.com/cosmocode-source/QoS-Priority-Controller) | Simulates software-defined networking and Quality of Service traffic prioritization | Python · Mininet · Ryu |
 | [Escape Room Game](https://github.com/cosmocode-source/EscapeRoom-Game) | Text-based adventure game — my first C project | C |
