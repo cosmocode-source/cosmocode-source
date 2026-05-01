@@ -40,6 +40,8 @@ I'm a Computer Science student who builds across the full stack - from web apps 
 
 [![GitHub](https://img.shields.io/badge/GitHub-cosmocode--source-181717?style=flat&logo=github)](https://github.com/cosmocode-source)
 
+[![GitHub](https://img.shields.io/badge/GitHub-cosmocode--source-181717?style=flat&logo=github)](https://cosmocode-source.github.io/My-Git-Statistics)
+
 ---
 
 *"Build things that interest you. The skills follow."*
