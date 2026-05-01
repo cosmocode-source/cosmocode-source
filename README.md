@@ -40,7 +40,7 @@ I'm a Computer Science student who builds across the full stack - from web apps 
 
 [![GitHub](https://img.shields.io/badge/GitHub-cosmocode--source-181717?style=flat&logo=github)](https://github.com/cosmocode-source)
 
-[![GitEternal](https://img.shields.io/badge/GitEternal-cosmocode--source-181717?style=flat-square&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fuser%2Frepo%2Fmain%2Flogo.png&logoColor=white)](https://cosmocode-source.github.io/My-Git-Statistics)
+[![GitEternal](https://img.shields.io/badge/GitEternal-cosmocode--source-181717?style=flat-square&logo=https://github.com/user-attachments/assets/d884b73c-87e7-4bc8-9407-2da253fb8168?raw=true)](https://cosmocode-source.github.io/My-Git-Statistics)
 
 ---
 
