@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Blue03&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light" width="150px" />
+<img src="https://avataaars.io/" width="150px" />
 
 <br/><br/>
 
