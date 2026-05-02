@@ -1,9 +1,8 @@
 <!-- TOP WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Arin%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%E2%80%A2%20CyberSec%20%E2%80%A2%20ML%20%E2%80%A2%20MERN&descAlignY=58&descSize=20" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header&animation=fadeIn" width="100%" />
 <div align="center">
 
-<img src="https://avataaars.io/" width="150px" />
+<img src="" width="150px" />
 
 <br/><br/>
 
