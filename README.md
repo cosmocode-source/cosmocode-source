@@ -247,7 +247,7 @@ I'm a Computer Science student at **PES University, India** who builds across th
 ## 📍 Right Now
 
 ```text
-🔐  Cloud Security & SDN     ████████████░░░   CSPM, OpenFlow, network telemetry
+🔐  Cloud Security & SDN      ████████████░░░   CSPM, OpenFlow, network telemetry
 🌐  Full-Stack Web            █████████░░░░░░   MERN, REST APIs, JWT auth
 🤖  Computer Vision           ███████░░░░░░░░   MediaPipe, real-time OS control
 🐍  Python Tooling            ██████████░░░░░   Async, GitHub Actions
