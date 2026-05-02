@@ -22,7 +22,19 @@
     <img src="https://img.shields.io/badge/GitEternal-Stats_Dashboard-4078c0?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/cosmocode-source?tab=followers">
+    <img alt="followers" src="https://img.shields.io/github/followers/cosmocode-source?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cosmocode-source?tab=repositories&sort=stargazers">
+    <img alt="total stars" src="https://img.shields.io/github/stars/cosmocode-source?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/>
+  </a>
+</p>
+
 </div>
 
 <br/>
@@ -44,8 +56,7 @@ I'm a Computer Science student at **PES University, India** who builds across th
 
 ---
 
-<details open>
-<summary><h2>🛠️ My Favorite Tools</h2></summary>
+## 🛠️ My Favorite Tools
 
 <br/>
 
@@ -95,8 +106,6 @@ I'm a Computer Science student at **PES University, India** who builds across th
 </p>
 
 <br/>
-
-</details>
 
 ---
 
@@ -151,33 +160,32 @@ I'm a Computer Science student at **PES University, India** who builds across th
 
 ---
 
-<details>
-<summary><h2>📊 GitHub Stats & Activity</h2></summary>
-
-<br/>
-
-<h3>💻 Profile Stats</h3>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Arin's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=cosmocode-source&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Arin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmocode-source&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-  </a>
-</p>
-
-<br/>
-
-> **Note:** Top languages reflects what's in my public repos, not my experience level.
+## 📊 GitHub Stats & Activity
 
 <br/>
 
 <h3>🔥 Streak Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cosmocode-source&theme=react&hide_border=true&background=1F222E&stroke=58A6FF&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cosmocode-source&theme=react&hide_border=true&background=1F222E&stroke=58A6FF&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" width="70%"/>
 </p>
+
+<br/>
+
+<h3>📈 Stats & Languages</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cosmocode-source&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888888" height="0" width="0"/>
+  <img alt="Arin's GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=cosmocode-source&cc=1F222E&tc=58A6FF&ic=F8D866&bc=1F222E" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmocode-source&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide=Jupyter%20Notebook" />
+</p>
+
+<br/>
+
+> **Note:** Top languages reflects what's in my public repos, not my experience level.
 
 <br/>
 
@@ -199,22 +207,15 @@ I'm a Computer Science student at **PES University, India** who builds across th
 
 <br/>
 
-</details>
-
 ---
 
-<details>
-<summary><h2>🏆 GitHub Trophies</h2></summary>
-
-<br/>
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cosmocode-source&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </p>
 
 <br/>
-
-</details>
 
 ---
 
@@ -235,11 +236,11 @@ I'm a Computer Science student at **PES University, India** who builds across th
 ## 📍 Right Now
 
 ```text
-🔐  Cloud Security & SDN      ████████████░░░   CSPM, OpenFlow, network telemetry
-🌐  Full-Stack Web            █████████░░░░░░   MERN, REST APIs, JWT auth
-🤖  Computer Vision           ███████░░░░░░░░   MediaPipe, real-time OS control
-🐍  Python Tooling            ██████████░░░░░   Async, GitHub Actions
-⚙️  Systems Programming       ████░░░░░░░░░░░   C, Win32, low-level internals
+🔐  Cloud Security & SDN      ████████████      CSPM, OpenFlow, network telemetry
+🌐  Full-Stack Web            █████████         MERN, REST APIs, JWT auth
+🤖  Computer Vision           ███████           MediaPipe, real-time OS control
+🐍  Python Tooling            ██████████        Async, GitHub Actions
+⚙️  Systems Programming       ████              C, Win32, low-level internals
 ```
 
 <br/>
