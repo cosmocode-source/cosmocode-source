@@ -184,7 +184,7 @@ I'm a Computer Science student at **PES University, India** who builds across th
 <h3>🌐 3D Contribution Calendar</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cosmocode-source/cosmocode-source/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%"/>
+  <img src="https://raw.githubusercontent.com/cosmocode-source/cosmocode-source/output/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%"/>
 </p>
 
 <br/>
