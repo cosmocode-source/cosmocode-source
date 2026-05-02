@@ -22,19 +22,7 @@
     <img src="https://img.shields.io/badge/GitEternal-Stats_Dashboard-4078c0?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/cosmocode-source?tab=followers">
-    <img alt="followers" src="https://img.shields.io/github/followers/cosmocode-source?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/cosmocode-source?tab=repositories&sort=stargazers">
-    <img alt="total stars" src="https://img.shields.io/github/stars/cosmocode-source?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/>
-  </a>
-</p>
-
 </div>
 
 <br/>
@@ -247,7 +235,7 @@ I'm a Computer Science student at **PES University, India** who builds across th
 ## 📍 Right Now
 
 ```text
-🔐  Cloud Security & SDN     ████████████░░░   CSPM, OpenFlow, network telemetry
+🔐  Cloud Security & SDN      ████████████░░░   CSPM, OpenFlow, network telemetry
 🌐  Full-Stack Web            █████████░░░░░░   MERN, REST APIs, JWT auth
 🤖  Computer Vision           ███████░░░░░░░░   MediaPipe, real-time OS control
 🐍  Python Tooling            ██████████░░░░░   Async, GitHub Actions
