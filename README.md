@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/GitEternal-Stats_Dashboard-4078c0?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge" />
 </p>
 
 <p align="center">
