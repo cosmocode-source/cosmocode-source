@@ -1,7 +1,11 @@
 <!-- TOP WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Arin%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%E2%80%A2%20CyberSec%20%E2%80%A2%20ML%20%E2%80%A2%20MERN&descAlignY=58&descSize=20" width="100%" />
 
 <div align="center">
+
+<img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Blue03&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light" width="150px" />
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Hey%2C+I'm+Arin+Singh+%F0%9F%91%8B;Computer+Vision+%E2%80%A2+CyberSec+%E2%80%A2+ML+%E2%80%A2+MERN;I+build+things+to+understand+them." alt="Typing SVG" />
@@ -22,6 +26,7 @@
     <img src="https://img.shields.io/badge/GitEternal-Stats_Dashboard-4078c0?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -37,7 +42,6 @@
 </div>
 
 <br/>
-
 ---
 
 ## 😄 About Me
