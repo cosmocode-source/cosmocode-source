@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header&animation=fadeIn" width="100%" />
 <div align="center">
 
-<img src="" width="150px" />
+<img src="https://raw.githubusercontent.com/cosmocode-source/cosmocode-source/main/avatar.svg" width="150px" />
 
 <br/><br/>
 
