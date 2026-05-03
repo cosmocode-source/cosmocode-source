@@ -180,9 +180,6 @@ I'm a Computer Science student at **PES University, India** who builds across th
   <img alt="Arin's GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=cosmocode-source&cc=1F222E&tc=58A6FF&ic=F8D866&bc=1F222E" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmocode-source&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide=Jupyter%20Notebook" />
-</p>
 
 <br/>
 
