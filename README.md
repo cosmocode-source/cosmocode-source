@@ -13,7 +13,7 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://github.com/cosmocode-source">
+  <a href="https://potfolio-one-sand.vercel.app/">
     <img src="https://img.shields.io/badge/GitHub-cosmocode--source-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
