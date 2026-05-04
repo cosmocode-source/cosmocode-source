@@ -266,6 +266,10 @@ I'm a Computer Science student at **PES University, India** who builds across th
   <a href="https://cosmocode-source.github.io/GitEternal/">
     <img src="https://img.shields.io/badge/GitEternal-Live_Stats_Dashboard-4078c0?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://potfolio-one-sand.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4078c0?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
